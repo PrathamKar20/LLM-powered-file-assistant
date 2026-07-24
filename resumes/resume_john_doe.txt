@@ -1,0 +1,4 @@
+John Doe
+Email: john.doe@email.com
+Skills: Python, Django, SQL.
+Experience: Python Engineer.
